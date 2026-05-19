@@ -169,13 +169,13 @@ $ gitup
 ### One-line install (recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USERNAME/easy-git/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/buriburiyj/easy-git/main/install.sh | bash
 ```
 
 ### Manual install
 
 ```bash
-git clone https://github.com/USERNAME/easy-git.git
+git clone https://github.com/buriburiyj/easy-git.git
 cd easy-git
 chmod +x install.sh
 ./install.sh
