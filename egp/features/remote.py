@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """🔗 원격 저장소"""
-from .. import ui, git_core
+from ... import ui, git_core
 from ..ui import C, GoBack
 
 

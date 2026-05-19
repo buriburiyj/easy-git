@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """↩ 되돌리기"""
-from .. import ui, git_core
+from ... import ui, git_core
 from ..ui import C, GoBack
 
 

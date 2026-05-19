@@ -42,7 +42,7 @@ if [ -f "easy_git.py" ]; then
     echo -e "  ${GREEN}✓${NC}  파일 복사 완료"
 else
     echo -e "  ${YELLOW}⠙${NC}  파일 다운로드 중..."
-    curl -fsSL https://github.com/USERNAME/easy-git/archive/main.tar.gz | \
+    curl -fsSL https://github.com/buriburiyj/easy-git/archive/main.tar.gz | \
         tar -xz -C "$INSTALL_DIR" --strip-components=1
     echo -e "  ${GREEN}✓${NC}  다운로드 완료"
 fi

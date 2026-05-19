@@ -2,7 +2,7 @@
 """👀 변경 미리보기"""
 import os
 from pathlib import Path
-from .. import ui, git_core
+from ... import ui, git_core
 from ..ui import C, GoBack
 
 

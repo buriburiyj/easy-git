@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """⚔ 충돌 해결"""
 import subprocess
-from .. import ui, git_core
+from ... import ui, git_core
 from ..ui import C, GoBack
 
 

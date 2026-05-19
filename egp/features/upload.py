@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """🚀 업로드 (add · commit · push)"""
-from .. import ui, git_core
+from ... import ui, git_core
 from ..ui import C, GoBack
 
 

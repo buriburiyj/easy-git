@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """📦 임시저장"""
-from .. import ui, git_core
+from ... import ui, git_core
 from ..ui import C, GoBack
 
 

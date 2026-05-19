@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """🚫 .gitignore 템플릿"""
 import os
-from .. import ui
+from ... import ui
 from ..ui import C, GoBack
 
 

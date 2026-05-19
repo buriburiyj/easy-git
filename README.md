@@ -169,7 +169,7 @@ $ gitup
 ### 한 줄 설치 (권장)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/USERNAME/easy-git/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/buriburiyj/easy-git/main/install.sh | bash
 ```
 
 ### 수동 설치
